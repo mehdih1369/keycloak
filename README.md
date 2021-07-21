@@ -1,4 +1,4 @@
-# keycloak
+# Keycloak
 You can find some bash script for better Keycloak management
 
 ## 1- CopyUsersKeycloak.sh
