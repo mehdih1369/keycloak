@@ -1,4 +1,7 @@
 # keycloak
+You can find some bash script for better Keycloak management
+
+1- CopyUsersKeycloak.sh
 ## copy users from a group to another
 
 edit file and update it based on your settings
@@ -9,3 +12,5 @@ install jq for parsing json (apt install jq)
 make file executable (chmod +x ./CopyUsersKeycloak.sh)
 
 run script
+
+----------------------------------------------------
